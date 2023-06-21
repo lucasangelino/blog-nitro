@@ -15,12 +15,12 @@
       "url": "/about"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Home",
+      "url": "/"
     },
     {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "name": "Como publicar",
+      "url": "/about"
     }
   ]
 }

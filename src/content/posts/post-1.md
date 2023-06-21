@@ -71,10 +71,6 @@ git commit -m "add verification to the shop card"
 ```
 
 ```js
-
-```
-
-```js
 // haz esto ✅
 git commit -m "feature/add-age-verificacion-JIRA-2020: add age verification to the shop card"
 ```

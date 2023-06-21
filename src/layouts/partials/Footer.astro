@@ -1,12 +1,8 @@
 ---
-import Social from "@components/Social.astro";
-import config from "@config/config.json";
 import menu from "@config/menu.json";
-import social from "@config/social.json";
-import { markdownify } from "@lib/utils/textConverter";
 ---
 
-<footer class="section bg-theme-dark">
+<footer class="section bg-[#09f]">
   <div class="container text-center">
     {/* footer menu */}
     <ul class="mb-8 space-x-4">
@@ -20,9 +16,5 @@ import { markdownify } from "@lib/utils/textConverter";
         ))
       }
     </ul>
-    {/* social icons */}
-    <Social source={social} className="social-icons mb-8" />
-    {/* copyright */}
-    <p set:html={markdownify(config.params.copyright)} class="text-white/75" />
   </div>
 </footer>
