@@ -1,0 +1,26 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Como publicar",
+      "url": "/about"
+    }
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    }
+  ]
+}
