@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
@@ -10,10 +10,6 @@
     }
   ],
   "footer": [
-    {
-      "name": "About",
-      "url": "/about"
-    },
     {
       "name": "Home",
       "url": "/"

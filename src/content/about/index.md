@@ -1,23 +1,24 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
-meta_title: "About"
-image: "/images/author.png"
+title: "Blog de la comunidad"
+meta_title: "Como publicar?"
 draft: false
-
-what_i_do:
-  title: "What I Do"
-  items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-  
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
-  
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
-
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+Este blog es un blog comunitario, lo que significa que cualquiera puede publicar un articulo en el mismo. Si quieres publicar un articulo en el blog, sigue las instrucciones de esta pagina.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+### Antes de empezar a escribir ten en cuenta lo siguiente:
+
+- Los articulos deben estar escritos en español.
+- Los articulos deben estar relacionados con tecnologia y programacion.
+- Revisa la ortografía y gramática de tu artículo.
+- El artículo no debe estar repetido dentro del blog.
+- Si tu articulo se trata de una traduccion o adaptacion de otro articulo, debes hacer mencion a la fuente original y colocar un enlace a la misma.
+- si tu articulo es demasiado extenso, considera dividirlo en varias partes.
+
+### Como publicar?
+
+- Crea un fork de este repositorio.
+- Agregua un archivo markdown con el contenido de tu articulo en la carpeta `content/posts/`.
+- Agrega una imagen de portada para tu articulo en la carpeta `static/images/`.
+- Haz un pull request con tus cambios agregando una breve descripcion de tu articulo. En caso de que sea una traducción o adaptación, agrega el enlace a la fuente original.
+- Una vez que tu articulo sea aprobado, se publicara en el blog.

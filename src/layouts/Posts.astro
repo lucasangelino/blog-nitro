@@ -80,6 +80,7 @@ const { className, posts, fluid } = Astro.props;
         </h3>
         <p class="text-text">
           {post.body?.slice(0, Number(i === 0 && fluid != false ? summary_length * 2 : summary_length))
+            // TODO: Change this to a better way to remove markdown syntax
             .replace("##", "")
             .replace("Motivación", "")
             .replace("**", "")}
