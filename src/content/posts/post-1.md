@@ -1,6 +1,6 @@
 ---
 title: "Escribe commits como un Dios"
-description: "meta description"
+description: "6 buenas practicas para escribir commits como un Senior Developer"
 date: 2022-04-04T05:00:00Z
 image: "/images/posts/git.webp"
 categories: ["programming"]
